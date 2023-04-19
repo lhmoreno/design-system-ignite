@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { ToastProps, Toast, Button, Box } from '@ignite-ui/react'
+import { ToastProps, Toast, Button, Box } from '@lhmoreno-ignite-ui/react'
 import { useState } from 'react'
 
 export default {

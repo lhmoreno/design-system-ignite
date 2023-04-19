@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { TooltipProps, Button, Box, Tooltip } from '@ignite-ui/react'
+import { TooltipProps, Button, Box, Tooltip } from '@lhmoreno-ignite-ui/react'
 
 export default {
   title: 'Data display/Tooltip',
